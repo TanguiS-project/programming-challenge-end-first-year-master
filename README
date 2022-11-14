@@ -1,0 +1,55 @@
+_________                    _________   ________       _____
+__  ____/____________ _____________  /   ___  __ \_________(_)___  __
+_  / __ __  ___/  __ `/_  __ \  __  /    __  /_/ /_  ___/_  /__  |/_/
+/ /_/ / _  /   / /_/ /_  / / / /_/ /     _  ____/_  /   _  / __>  <
+\____/  /_/    \__,_/ /_/ /_/\__,_/      /_/     /_/    /_/  /_/|_|
+
+
+
+                  ---> FR : Gestionnaire de course <---
+
+# Compilation / Lancement
+#########################
+
+Compiler d'abord le gestionnaire de course :
+
+  qmake
+  make
+
+Ensuite, compiler le pilote ```OpelKapitan```
+
+  commande : ```cd pilot_OpelKapitan; make; cd ../```
+
+Enfin, lancer
+
+  command : ```./GrandPrix```
+
+# Auteurs
+#########
+
+    Julien Gosme
+    Modifications par Gilles Lebrun et Sebastien Fourey
+
+                  ---> EN: Race Manager <---
+
+# Compiling / Launching
+#########################
+
+First compile the race manager :
+
+  qmake
+  make
+
+Then, compile the pilot ```OpelKapitan```
+
+  command : ```cd pilot_OpelKapitan; make; cd ../```
+
+Finally, run
+
+  command : ```./GrandPrix```
+
+# Authors
+#########
+
+    Julien Gosme
+    Modifications by Gilles Lebrun and Sebastien Fourey
